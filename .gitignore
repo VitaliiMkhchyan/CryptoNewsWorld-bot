@@ -1,0 +1,4 @@
+.idea
+config/__pycache__
+CryptoNewsWorldBot/__pycache__
+*.log
