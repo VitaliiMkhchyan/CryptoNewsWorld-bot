@@ -1,4 +1,6 @@
 .idea
+.venv
 config/__pycache__
 CryptoNewsWorldBot/__pycache__
 *.log
+.env
